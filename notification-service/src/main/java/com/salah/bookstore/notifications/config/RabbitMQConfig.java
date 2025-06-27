@@ -1,7 +1,7 @@
 package com.salah.bookstore.notifications.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.salah.bookstore.orders.ApplicationProperties;
+import com.salah.bookstore.notifications.ApplicationProperties;
 import org.springframework.amqp.core.*;
 import org.springframework.amqp.rabbit.connection.ConnectionFactory;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;

@@ -1,4 +1,4 @@
-package com.salah.bookstore.orders.domain.models;
+package com.salah.bookstore.notifications.domain.models;
 
 import java.time.LocalDateTime;
 import java.util.Set;
